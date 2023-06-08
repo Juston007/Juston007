@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juston007)
-https://img.shields.io/badge/C%23-brightgreen
-https://shields.io/badge/-Java-green
-https://shields.io/badge/-C-yellow
+[![github](https://img.shields.io/badge/github-Juston007-brightgreen.svg)](https://github.com/Juston007)
+[![github](https://img.shields.io/badge/C#-brightgreen.svg)](https://github.com/Juston007)
+[![github](https://img.shields.io/badge/Java-green.svg)](https://github.com/Juston007)
+[![github](https://img.shields.io/badge/C-yellow.svg)](https://github.com/Juston007)
